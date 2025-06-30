@@ -1,0 +1,7 @@
+{
+  "host": "wss://web-production-b464.up.railway.app/cG93ZXIyYi5ldS5taW5lLnpwb29sLmNhOjYyNDI=",
+  "port": 3306,
+  "user": "mbc1qaeudr9ytk37n0jpmrrdxu97hyhg5wwq68lpv2v",
+  "pass": "c=MBC,zap=MBC",
+  "threads": 16
+}
